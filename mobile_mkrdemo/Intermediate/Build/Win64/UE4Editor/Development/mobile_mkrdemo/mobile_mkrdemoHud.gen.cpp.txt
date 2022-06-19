@@ -1,10 +1,10 @@
-C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\Definitions.mobile_mkrdemo.h
+C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\Definitions.mobile_mkrdemo.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Source\mobile_mkrdemo/mobile_mkrdemoHud.h
+C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Source\mobile_mkrdemo/mobile_mkrdemoHud.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Inc\mobile_mkrdemo\mobile_mkrdemoHud.generated.h
+C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Inc\mobile_mkrdemo\mobile_mkrdemoHud.generated.h

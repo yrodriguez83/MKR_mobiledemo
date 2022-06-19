@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Inc\mobile_mkrdemo"
-/I "C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Source"
+/I C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Inc\mobile_mkrdemo
+/I C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -272,12 +272,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\mobile_mkrdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\mobile_mkrdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\mobile_mkrdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Source\mobile_mkrdemo\mobile_mkrdemoGameMode.cpp"
-/FI"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\Definitions.mobile_mkrdemo.h"
-/Fo"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoGameMode.cpp.obj"
+/FI"C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\mobile_mkrdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\mobile_mkrdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\mobile_mkrdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Source\mobile_mkrdemo\mobile_mkrdemoGameMode.cpp"
+/FI"C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\Definitions.mobile_mkrdemo.h"
+/Fo"C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoGameMode.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,7 +1,7 @@
-C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\Definitions.mobile_mkrdemo.h
-C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Source\mobile_mkrdemo\mobile_mkrdemoWheelRear.h
+C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\Definitions.mobile_mkrdemo.h
+C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Source\mobile_mkrdemo\mobile_mkrdemoWheelRear.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\VehicleWheel.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\VehicleWheel.generated.h
-C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Inc\mobile_mkrdemo\mobile_mkrdemoWheelRear.generated.h
+C:\Users\yamro\Documents\GitHub\MKR_mobiledemo\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Inc\mobile_mkrdemo\mobile_mkrdemoWheelRear.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\TireConfig.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\TireConfig.generated.h

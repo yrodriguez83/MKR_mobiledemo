@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\yamro\\Documents\\Unreal Projects\\mobile_mkrdemo\\Source\\mobile_mkrdemo\\mobile_mkrdemo.Build.cs",
-		"C:\\Users\\yamro\\Documents\\Unreal Projects\\mobile_mkrdemo\\Source\\mobile_mkrdemo.Target.cs",
-		"C:\\Users\\yamro\\Documents\\Unreal Projects\\mobile_mkrdemo\\Source\\mobile_mkrdemoEditor.Target.cs"
+		"C:\\Users\\yamro\\Documents\\GitHub\\MKR_mobiledemo\\mobile_mkrdemo\\Source\\mobile_mkrdemo\\mobile_mkrdemo.Build.cs",
+		"C:\\Users\\yamro\\Documents\\GitHub\\MKR_mobiledemo\\mobile_mkrdemo\\Source\\mobile_mkrdemo.Target.cs",
+		"C:\\Users\\yamro\\Documents\\GitHub\\MKR_mobiledemo\\mobile_mkrdemo\\Source\\mobile_mkrdemoEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
