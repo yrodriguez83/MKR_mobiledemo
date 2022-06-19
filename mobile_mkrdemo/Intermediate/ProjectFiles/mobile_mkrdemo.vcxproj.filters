@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\mobile_mkrdemo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{26EBBDA9-A417-4C61-B624-7108F603ABEB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\mobile_mkrdemo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\mobile_mkrdemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2FB1E27A-8EAC-4A42-A8D5-5035EBEEB2CE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\mobile_mkrdemo">
+      <UniqueIdentifier>{99B7114A-7195-4408-96D8-7ABB1F2FCC31}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemo.Build.cs">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemo.cpp">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemo.h">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoGameMode.cpp">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoGameMode.h">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoHud.cpp">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoHud.h">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoPawn.cpp">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoPawn.h">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoWheelFront.cpp">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoWheelFront.h">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoWheelRear.cpp">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mobile_mkrdemo\mobile_mkrdemoWheelRear.h">
+      <Filter>Source\mobile_mkrdemo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

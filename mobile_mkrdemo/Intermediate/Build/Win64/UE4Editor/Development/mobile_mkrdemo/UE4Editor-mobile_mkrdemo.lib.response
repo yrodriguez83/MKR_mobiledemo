@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-mobile_mkrdemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\mobile_mkrdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemo.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoGameMode.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoHud.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoPawn.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoWheelFront.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoWheelRear.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemo.init.gen.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoGameMode.gen.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoHud.gen.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoPawn.gen.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoWheelFront.gen.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\mobile_mkrdemoWheelRear.gen.cpp.obj"
+"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\Default.rc2.res"
+/OUT:"C:\Users\yamro\Documents\Unreal Projects\mobile_mkrdemo\Intermediate\Build\Win64\UE4Editor\Development\mobile_mkrdemo\UE4Editor-mobile_mkrdemo.lib"

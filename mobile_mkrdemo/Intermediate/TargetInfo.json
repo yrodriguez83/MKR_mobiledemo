@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "mobile_mkrdemo",
+			"Path": "C:\\Users\\yamro\\Documents\\Unreal Projects\\mobile_mkrdemo\\Source\\mobile_mkrdemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "mobile_mkrdemoEditor",
+			"Path": "C:\\Users\\yamro\\Documents\\Unreal Projects\\mobile_mkrdemo\\Source\\mobile_mkrdemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
